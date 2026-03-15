@@ -1,2 +1,1 @@
-git status
-This is contentd
+This is content
